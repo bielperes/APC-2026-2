@@ -6,6 +6,6 @@ Repositório público da disciplina "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COM
 **Curso**: Engenharia de Computação
 **Período:** 3º
 
-teste 1
-teste 2
+teste 1 \
+teste 2 \
 teste 3
